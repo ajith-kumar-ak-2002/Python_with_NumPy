@@ -15,10 +15,10 @@
 * 2D Slicing
 
 ## NumPy Functions for array Creation 
-* np.array -- 1D & 2D
-* np.zeros -- 1D & 2D
-* np.ones  -- 1D & 2D
-* np.full  -- 1D & 2D
+* np.array -- 1D & 2D (Returns Arrays)
+* np.zeros -- 1D & 2D (Return Only Zeros)
+* np.ones  -- 1D & 2D (Returns only ones)
+* np.full  -- 1D & 2D (Creates an array filled with a constant value.)
 * np.arange -- 1D & 2D ( np.arange(start, stop, step) )
 * ### np.linspace
      * Syntax ----- np.linspace(start, stop, num=50, endpoint=True, retstep=False) 
