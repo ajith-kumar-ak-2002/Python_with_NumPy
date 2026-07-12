@@ -20,7 +20,7 @@
 * np.ones  -- 1D & 2D
 * np.full  -- 1D & 2D
 * np.arange -- 1D & 2D ( np.arange(start, stop, step) )
-* ## np.linspace
+* # np.linspace
      * Syntax ----- np.linspace(start, stop, num=50, endpoint=True, retstep=False) 
      * start – starting value
      * stop – ending value
