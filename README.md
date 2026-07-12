@@ -50,7 +50,7 @@
 * Filtering 2D Arrays                 -------Apply conditions to 2D arrays (tables/matrices)
 * One Real Life Example                 ------ Temperature data
 
-## NumPy Join, Split & Sort Operations
+# NumPy Join, Split & Sort Operations
 #  Array Joining 
     * Joining means combining multiple arrays into one.
     * NumPy provides different joining functions:
