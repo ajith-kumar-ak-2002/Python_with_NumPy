@@ -1,6 +1,6 @@
-###Python with NumPy
+### Python with NumPy
 
-##Basic of Numpy
+## Basic of Numpy
 * find size of the array
 * find shape of the array
 * find Dimensions of the array
@@ -8,7 +8,7 @@
 * Individual Item Size
 * Total Bytes of the array
 
-##Indexing & Slicing in NumPy
+## Indexing & Slicing in NumPy
 * 1D Indexing
 * 2D Indexing
 * 1D Slicing
