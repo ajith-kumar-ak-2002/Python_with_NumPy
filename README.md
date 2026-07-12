@@ -35,3 +35,10 @@
 * ravel --- if User Change in copyed file also in original also may change
 * newaxis --- it converts into rowa to column and column to row
 * resize --- Resizes array even if shape doesn’t match. It repeats data if needed
+
+### Random Number Generator
+* rand            * It gives Float Value
+* randint         * It Gives Integer Value
+* randn           * Create 5 natural-looking random numbers
+* rand seed       * Fixes the random values so results are the same every time
+* rand Choice     * Selects random items from a list or array
