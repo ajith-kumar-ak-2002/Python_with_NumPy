@@ -51,17 +51,17 @@
 * One Real Life Example                 ------ Temperature data
 
 # NumPy Join, Split & Sort Operations
-#  Array Joining 
+###  Array Joining 
     * Joining means combining multiple arrays into one.
     * NumPy provides different joining functions:
     * np.concatenate()      ---- (axis=0 → Join vertically (↓ rows) ) ( axis=1 → Join horizontally (→ columns) )
     * np.stack()
     * np.hstack()
     * np.vstack()
-# Array Splitting
+### Array Splitting
     * np.split()
     * np.hsplit()
     * np.vsplit()
-# #Sorting Arrays
+### #Sorting Arrays
     * np.sort() → Returns sorted array
     * np.argsort() → Returns indices to sort the array
