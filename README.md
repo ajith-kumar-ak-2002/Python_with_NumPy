@@ -42,3 +42,10 @@
 * randn           * Create 5 natural-looking random numbers
 * rand seed       * Fixes the random values so results are the same every time
 * rand Choice     * Selects random items from a list or array
+
+### NumPy Boolean Indexing & Filtering
+* Basic Boolean Indexing           ----- Basic Boolean Indexing
+* Multiple Conditions             -------Combine conditions using & (AND), | (OR), ~ (NOT)
+* Where Function                     ------Find indices where condition is True, or replace values
+* Filtering 2D Arrays                 -------Apply conditions to 2D arrays (tables/matrices)
+* One Real Life Example                 ------ Temperature data
