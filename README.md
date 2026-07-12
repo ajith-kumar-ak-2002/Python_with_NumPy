@@ -28,3 +28,10 @@
      * endpoint=True – include stop value or not
      * retstep=True – also return spacing between values
 * np.eye ( Creates an identity matrix where diagonal elements are 1, rest are 0 )
+
+## Arrays Reshaping
+* reshape --- it converts 1D array to 2D array
+* flatten --- 2D Converts into One 1D its creates a copy from original
+* ravel --- if User Change in copyed file also in original also may change
+* newaxis --- it converts into rowa to column and column to row
+* resize --- Resizes array even if shape doesn’t match. It repeats data if needed
