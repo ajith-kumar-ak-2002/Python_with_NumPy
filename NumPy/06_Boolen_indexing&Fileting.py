@@ -65,4 +65,4 @@ print("valid Temperature: ", valid_temp)
 print(f"Removed {len(temperature) - len(valid_temp)} Invalid readings")
 
 # Calculate statistics on clean data
-print(f"Average Temperature: {temperature.mean():.1f}°C")
+print(f"Average Temperature: {valid_temp.mean():.1f}°C")
