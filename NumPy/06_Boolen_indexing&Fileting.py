@@ -1,5 +1,6 @@
 import numpy as np
 
+
 #Basic Boolean Indexing
 
 # Create a simple array
@@ -50,3 +51,18 @@ print("\nValues > 5: ", high_value)
 row_fliter = matrix[matrix[:, 0] >3 ]
 print("\nRows Where first column >3")
 print(row_fliter)
+
+
+
+
+#  Temperature data with errors
+temperature = np.array([22.5, 23.1, -999, 24.3, 150, 23.8, 22.9])
+print("Temperature: ", temperature)
+
+# Remove invalid readings (-999 and values > 50)
+valid_temp = temperature[(temperature > 0) & (temperature<50)]
+print("valid Temperature: ", valid_temp)
+print(f"Removed {len(temperature) - len(valid_temp)} Invalid readings")
+
+# Calculate statistics on clean data
+print(f"Average Temperature: {temperature.mean():.1f}°C")
