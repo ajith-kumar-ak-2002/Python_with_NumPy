@@ -29,7 +29,7 @@
      * retstep=True – also return spacing between values
 * np.eye ( Creates an identity matrix where diagonal elements are 1, rest are 0 )
 
-## Arrays Reshaping
+### Arrays Reshaping
 * reshape --- it converts 1D array to 2D array
 * flatten --- 2D Converts into One 1D its creates a copy from original
 * ravel --- if User Change in copyed file also in original also may change
